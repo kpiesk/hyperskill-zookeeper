@@ -1,6 +1,7 @@
 # hyperskill-python-zookeeper
 ### My Zookeper project as part of the Hyperskill Jetbrains Academy Python Developer course.
-*Project 1*
+
+**Project Number** #1
 
 **Difficulty:** Easy
 
