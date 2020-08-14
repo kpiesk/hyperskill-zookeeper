@@ -3,7 +3,7 @@
 
 **Project Number**: #1
 
-**Covered Topics from the Course:** 18
+**Covered Topics from the Course:** #18
 
 **About:** A very basic program for monitoring zoo animals and their status. The program understands the habitat numbers, shows the animals, and is able to work infinitely.
 
